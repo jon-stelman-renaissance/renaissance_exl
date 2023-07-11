@@ -1,6 +1,6 @@
 name,age,height,occupation,pets
-Jackie,37,60,"Singer (soprano)",cat
-Larry,35,68,"Singer (tenor)",None
-Raul,45,71,Drummer,iguana
+Candace,37,60,"Singer",cat
+Larry,35,68,"Journalist",None
+Raul,45,71,Software Designer,iguana
 Bart,12,38,Student,"dog, bird"
-George,25,62,Architect,dog
+George,25,62,Interior Designer,dog
